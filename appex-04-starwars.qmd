@@ -1,0 +1,15 @@
+---
+title: "Appex 04 - Starwars Data Manipulation"
+author: "Put your name here!"
+format: html
+editor: visual
+---
+
+```{r}
+#| label: load-packages
+#| message: false
+#| warning: false
+library(tidyverse)
+```
+
+To begin, take a look at the `starwars` dataset in the Console.
